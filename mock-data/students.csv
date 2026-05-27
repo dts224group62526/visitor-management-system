@@ -1,0 +1,21 @@
+matric_number,first_name,last_name,email,hall,room,level,department
+24CG001001,Emeka,Okafor,emeka.okafor@stu.cu.edu.ng,Paul Hall,A101,400,Computer Science
+23EE002002,Tunde,Adeyemi,tunde.adeyemi@stu.cu.edu.ng,Paul Hall,A204,300,Electrical Engineering
+22ME003003,Chukwudi,Nwosu,chukwudi.nwosu@stu.cu.edu.ng,Peter Hall,B110,200,Mechanical Engineering
+24CE004004,Ibrahim,Musa,ibrahim.musa@stu.cu.edu.ng,Peter Hall,B305,400,Civil Engineering
+23CG005005,Seun,Adesanya,seun.adesanya@stu.cu.edu.ng,Joseph Hall,C201,300,Computer Science
+22AR006006,Biodun,Fashola,biodun.fashola@stu.cu.edu.ng,Joseph Hall,C412,200,Architecture
+24BA007007,Kelechi,Eze,kelechi.eze@stu.cu.edu.ng,John Hall,D102,400,Business Administration
+23LW008008,Uche,Obi,uche.obi@stu.cu.edu.ng,John Hall,D218,300,Law
+22BC009009,Babatunde,Ogundimu,babatunde.ogundimu@stu.cu.edu.ng,Daniel Hall,A309,200,Biochemistry
+24MC010010,Chidi,Okeke,chidi.okeke@stu.cu.edu.ng,Daniel Hall,B401,400,Mass Communication
+23AC011011,Ngozi,Ibe,ngozi.ibe@stu.cu.edu.ng,Mary Hall,A103,300,Accounting
+22CG012012,Amaka,Eze,amaka.eze@stu.cu.edu.ng,Mary Hall,A215,200,Computer Science
+24EE013013,Chidinma,Okonkwo,chidinma.okonkwo@stu.cu.edu.ng,Lydia Hall,B107,400,Electrical Engineering
+23BA014014,Tolulope,Adebayo,tolulope.adebayo@stu.cu.edu.ng,Lydia Hall,B302,300,Business Administration
+22BC015015,Adaeze,Nwosu,adaeze.nwosu@stu.cu.edu.ng,Deborah Hall,C110,200,Biochemistry
+24LW016016,Funmilayo,Osei,funmilayo.osei@stu.cu.edu.ng,Deborah Hall,C220,400,Law
+23ME017017,Blessing,Chukwu,blessing.chukwu@stu.cu.edu.ng,Dorcas Hall,D103,300,Mechanical Engineering
+22MC018018,Ifeoma,Ogbonna,ifeoma.ogbonna@stu.cu.edu.ng,Dorcas Hall,D211,200,Mass Communication
+24AC019019,Zainab,Abdullahi,zainab.abdullahi@stu.cu.edu.ng,Paul Hall,A316,400,Accounting
+23AR020020,Oluwaseun,Balogun,oluwaseun.balogun@stu.cu.edu.ng,Peter Hall,B108,300,Architecture

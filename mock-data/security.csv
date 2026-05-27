@@ -1,0 +1,11 @@
+staff_id,first_name,last_name,email,shift_days,shift_start,shift_end
+SEC-0051,Sgt. Abubakar,Suleiman,a.suleiman@cu.edu.ng,SAT|SUN,06:00,14:00
+SEC-0052,Sgt. Emeka,Nwosu,e.nwosu@cu.edu.ng,SAT|SUN,06:00,14:00
+SEC-0053,Cpl. Taiwo,Adeyemi,t.adeyemi@cu.edu.ng,SAT|SUN,07:00,15:00
+SEC-0054,Cpl. Chukwudi,Obi,c.obi@cu.edu.ng,SAT|SUN,07:00,15:00
+SEC-0055,Sgt. Musa,Ibrahim,m.ibrahim@cu.edu.ng,SAT|SUN,08:00,16:00
+SEC-0056,Pvt. Segun,Fashola,s.fashola@cu.edu.ng,SAT|SUN,08:00,16:00
+SEC-0057,Officer Kelechi,Eze,k.eze@cu.edu.ng,SAT|SUN,10:00,18:00
+SEC-0058,Cpl. Biodun,Ogundimu,b.ogundimu@cu.edu.ng,SAT|SUN,10:00,18:00
+SEC-0059,Sgt. Uche,Okeke,u.okeke@cu.edu.ng,SAT|SUN,12:00,20:00
+SEC-0060,Pvt. Babatunde,Adebayo,b.adebayo@cu.edu.ng,SAT|SUN,12:00,20:00
