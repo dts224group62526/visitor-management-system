@@ -126,7 +126,16 @@ export default function App() {
     fetch('/api/admin/institutions', { credentials: 'include' })
       .then(r => r.json())
       .then(d => setInstitutions(d.institutions ?? []))
-      .catch(() => {})
+      .catch(() => {
+        setInstitutions([{
+          id: 'covenant-university',
+          name: 'Covenant University',
+          abbreviation: 'CU',
+          city: 'Ota',
+          state: 'Ogun State',
+          matric_format: 'cu',
+        }]);
+      })
       .finally(() => setInstLoading(false));
   }, []);
 
